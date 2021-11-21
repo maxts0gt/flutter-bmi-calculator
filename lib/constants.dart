@@ -10,6 +10,11 @@ const kNumberTextStyle = TextStyle(
   fontWeight: FontWeight.w900,
 );
 
+const kButtonStyle = TextStyle(
+  fontSize: 20.0,
+  fontWeight: FontWeight.w500,
+);
+
 const kBottomContainerHeight = 80.0;
 const kActiveBoxColor = Color(0xFF1D1E33);
 const kInActiveBoxColor = Color(0xFF111328);
